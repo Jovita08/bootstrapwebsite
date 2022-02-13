@@ -635,6 +635,7 @@ Publish the website in the given URL.
 ![home1](./bprdwebsite/static/img/out/home.png)
 ![home2](./bprdwebsite/static/img/out/home2.png)
 ![home3](./bprdwebsite/static/img/out/home3.png)
+![home4](./bprdwebsite/static/img/out/home4.png)
 ### About Us Page:
 ![menu](./bprdwebsite/static/img/out/about.png)
 ### SPC Page:
